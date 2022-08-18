@@ -1,14 +1,16 @@
 ---
 title: "Assessment 02 - Data Types"
 author: "Ruben Campos - Harvard Data Science Professional"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### **str**
+
 We're going to be using the following dataset for this module. Run this code in the console.
 
 ```

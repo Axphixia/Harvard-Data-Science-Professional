@@ -1,6 +1,6 @@
 ---
 title: "02 - Tidy Data Comprehension Check"
-author: "Gabriele Mineo - Harvard Data Science Professional"
+author: "Ruben Campos - Harvard Data Science Professional"
 output:
   html_document: default
   pdf_document: default

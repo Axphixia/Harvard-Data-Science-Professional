@@ -2,8 +2,8 @@
 title: "Assessment 09 - Programming Basic"
 author: "Ruben Campos - Harvard Data Science Professional"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}

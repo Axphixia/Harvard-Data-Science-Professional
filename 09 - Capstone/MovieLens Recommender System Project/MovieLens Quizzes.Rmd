@@ -1,6 +1,6 @@
 ---
 title: "Harvard Data Science Professional Capstone Project - MovieLens Quizzes"
-author: " Gabriele Mineo"
+author: "Ruben Campos"
 output: html_document
 ---
 

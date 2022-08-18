@@ -1,6 +1,6 @@
 ---
 title: "Assessment 06 - Introduction to ggplot2"
-author: "Gabriele Mineo - Harvard Data Science Professional"
+author: "Ruben Campos - Harvard Data Science Professional"
 output:
   pdf_document: default
   html_document: default

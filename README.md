@@ -1,12 +1,9 @@
-
 # Harvard-Data-Science-Professional
 Repository for the Data Science Professional Program from Harvard University on edX 
 
 Overview
 
-Harvard Professional Certificate in Data Science is an introductory learning and career oriented learning path for the Data Science world.
-
-The entire program is taught by Prof. of Biostatistics Rafael Irizarry from Harvard University through edX platform.
+The program covers concepts such as probability, inference, regression, and machine learning and helps you develop an essential skill set that includes R programming, data wrangling with dplyr, data visualization with ggplot2, file organization with Unix/Linux, version control with git and GitHub, and reproducible document preparation with RStudio.
 
 This course covers:
 
@@ -28,4 +25,3 @@ Courses in this Program
     Linear Regression
     Machine Learning
     Capstone
-
